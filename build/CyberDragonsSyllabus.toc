@@ -1,0 +1,73 @@
+\contentsline {section}{\numberline {1}Overview}{4}{section.1}%
+\contentsline {subsection}{\numberline {1.1}About Us}{4}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Home of the CyberDragons}{4}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}What We Do}{4}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.4}Competitive Opportunities}{4}{subsection.1.4}%
+\contentsline {section}{\numberline {2}Weekly Meeting Dates}{5}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Semester I}{5}{subsection.2.1}%
+\contentsline {subsubsection}{\numberline {2.1.1}Welcome to CyberDragons (09/01/2023)}{5}{subsubsection.2.1.1}%
+\contentsline {paragraph}{\numberline {2.1.1.1}Meeting Summary}{5}{paragraph.2.1.1.1}%
+\contentsline {paragraph}{\numberline {2.1.1.2}CyberDragons Application Requirements}{5}{paragraph.2.1.1.2}%
+\contentsline {paragraph}{\numberline {2.1.1.3}Meeting At-A-Glance}{5}{paragraph.2.1.1.3}%
+\contentsline {subsubsection}{\numberline {2.1.2}CyberPatriot 101 (09/08/2023)}{6}{subsubsection.2.1.2}%
+\contentsline {paragraph}{\numberline {2.1.2.1}Meeting Summary}{6}{paragraph.2.1.2.1}%
+\contentsline {paragraph}{\numberline {2.1.2.2}Meeting At-A-Glance}{6}{paragraph.2.1.2.2}%
+\contentsline {subsubsection}{\numberline {2.1.3}Over the Wire (09/15/2023)}{7}{subsubsection.2.1.3}%
+\contentsline {paragraph}{\numberline {2.1.3.1}Meeting Summary}{7}{paragraph.2.1.3.1}%
+\contentsline {paragraph}{\numberline {2.1.3.2}Meeting At-A-Glance}{7}{paragraph.2.1.3.2}%
+\contentsline {subsubsection}{\numberline {2.1.4}CyberDragons Inductions (09/22/2023)}{7}{subsubsection.2.1.4}%
+\contentsline {paragraph}{\numberline {2.1.4.1}Meeting Summary}{7}{paragraph.2.1.4.1}%
+\contentsline {paragraph}{\numberline {2.1.4.2}Meeting At-A-Glance}{7}{paragraph.2.1.4.2}%
+\contentsline {subsubsection}{\numberline {2.1.5}Official Practice Round (10/13/2023)}{8}{subsubsection.2.1.5}%
+\contentsline {paragraph}{\numberline {2.1.5.1}Meeting Summary}{8}{paragraph.2.1.5.1}%
+\contentsline {paragraph}{\numberline {2.1.5.2}Meeting At-A-Glance}{8}{paragraph.2.1.5.2}%
+\contentsline {subsubsection}{\numberline {2.1.6}Review Writeups and Qualifier Images (10/20/2023)}{8}{subsubsection.2.1.6}%
+\contentsline {paragraph}{\numberline {2.1.6.1}Meeting Summary}{8}{paragraph.2.1.6.1}%
+\contentsline {paragraph}{\numberline {2.1.6.2}Meeting At-A-Glance}{8}{paragraph.2.1.6.2}%
+\contentsline {subsubsection}{\numberline {2.1.7}Terminal Teasers (10/27/2023)}{9}{subsubsection.2.1.7}%
+\contentsline {paragraph}{\numberline {2.1.7.1}Meeting Summary}{9}{paragraph.2.1.7.1}%
+\contentsline {paragraph}{\numberline {2.1.7.2}Meeting At-A-Glance}{9}{paragraph.2.1.7.2}%
+\contentsline {subsubsection}{\numberline {2.1.8}Last Meeting Before Round II (11/03/2023)}{9}{subsubsection.2.1.8}%
+\contentsline {paragraph}{\numberline {2.1.8.1}Meeting Summary}{9}{paragraph.2.1.8.1}%
+\contentsline {paragraph}{\numberline {2.1.8.2}Meeting At-A-Glance}{9}{paragraph.2.1.8.2}%
+\contentsline {subsubsection}{\numberline {2.1.9}Powershell Sherlock Holmes-esque Crime (11/10/2023)}{10}{subsubsection.2.1.9}%
+\contentsline {paragraph}{\numberline {2.1.9.1}Meeting Summary}{10}{paragraph.2.1.9.1}%
+\contentsline {paragraph}{\numberline {2.1.9.2}Meeting At-A-Glance}{10}{paragraph.2.1.9.2}%
+\contentsline {subsubsection}{\numberline {2.1.10}Encryption/Decryption Murder Mystery (11/17/23)}{10}{subsubsection.2.1.10}%
+\contentsline {paragraph}{\numberline {2.1.10.1}Meeting Summary}{10}{paragraph.2.1.10.1}%
+\contentsline {paragraph}{\numberline {2.1.10.2}Meeting At-A-Glance}{10}{paragraph.2.1.10.2}%
+\contentsline {subsubsection}{\numberline {2.1.11}Computer Forensics (12/01/2023)}{11}{subsubsection.2.1.11}%
+\contentsline {paragraph}{\numberline {2.1.11.1}Meeting Summary}{11}{paragraph.2.1.11.1}%
+\contentsline {paragraph}{\numberline {2.1.11.2}Meeting At-A-Glance}{11}{paragraph.2.1.11.2}%
+\contentsline {subsection}{\numberline {2.2}Semester II}{11}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}Welcome Back \& Introduction to Offensive Security (01/12/2024)}{11}{subsubsection.2.2.1}%
+\contentsline {paragraph}{\numberline {2.2.1.1}Meeting Summary}{11}{paragraph.2.2.1.1}%
+\contentsline {paragraph}{\numberline {2.2.1.2}Meeting At-A-Glance}{11}{paragraph.2.2.1.2}%
+\contentsline {subsubsection}{\numberline {2.2.2}Final Review Before Semifinals}{12}{subsubsection.2.2.2}%
+\contentsline {paragraph}{\numberline {2.2.2.1}Meeting Summary}{12}{paragraph.2.2.2.1}%
+\contentsline {paragraph}{\numberline {2.2.2.2}Meeting At-A-Glance}{12}{paragraph.2.2.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.3}Web Exploitation (01/19/2024)}{12}{subsubsection.2.2.3}%
+\contentsline {paragraph}{\numberline {2.2.3.1}Meeting Summary}{12}{paragraph.2.2.3.1}%
+\contentsline {paragraph}{\numberline {2.2.3.2}Meeting At-A-Glance}{12}{paragraph.2.2.3.2}%
+\contentsline {subsubsection}{\numberline {2.2.4}Command-line Network Penetration (02/09/2024)}{13}{subsubsection.2.2.4}%
+\contentsline {paragraph}{\numberline {2.2.4.1}Meeting Summary}{13}{paragraph.2.2.4.1}%
+\contentsline {paragraph}{\numberline {2.2.4.2}Meeting At-A-Glance}{13}{paragraph.2.2.4.2}%
+\contentsline {subsubsection}{\numberline {2.2.5}Hacking Tools (02/23/2024)}{13}{subsubsection.2.2.5}%
+\contentsline {paragraph}{\numberline {2.2.5.1}Meeting Summary}{13}{paragraph.2.2.5.1}%
+\contentsline {paragraph}{\numberline {2.2.5.2}Meeting At-A-Glance}{13}{paragraph.2.2.5.2}%
+\contentsline {subsubsection}{\numberline {2.2.6}Steganographic Art Gallery (03/01/2024)}{14}{subsubsection.2.2.6}%
+\contentsline {paragraph}{\numberline {2.2.6.1}Meeting Summary}{14}{paragraph.2.2.6.1}%
+\contentsline {paragraph}{\numberline {2.2.6.2}Meeting At-A-Glance}{14}{paragraph.2.2.6.2}%
+\contentsline {subsubsection}{\numberline {2.2.7}Review Session for Lockheed Martin CyberQuest and picoCTF (03/08/2024)}{15}{subsubsection.2.2.7}%
+\contentsline {paragraph}{\numberline {2.2.7.1}Meeting Summary}{15}{paragraph.2.2.7.1}%
+\contentsline {paragraph}{\numberline {2.2.7.2}Meeting At-A-Glance}{15}{paragraph.2.2.7.2}%
+\contentsline {subsubsection}{\numberline {2.2.8}picoCTF Competition Meeting (03/22/2024)}{15}{subsubsection.2.2.8}%
+\contentsline {paragraph}{\numberline {2.2.8.1}Meeting Summary}{15}{paragraph.2.2.8.1}%
+\contentsline {paragraph}{\numberline {2.2.8.2}Meeting At-A-Glance}{15}{paragraph.2.2.8.2}%
+\contentsline {subsubsection}{\numberline {2.2.9}picoCTF Award Ceremony (03/29/2024)}{16}{subsubsection.2.2.9}%
+\contentsline {paragraph}{\numberline {2.2.9.1}Meeting Summary}{16}{paragraph.2.2.9.1}%
+\contentsline {paragraph}{\numberline {2.2.9.2}Meeting At-A-Glance}{16}{paragraph.2.2.9.2}%
+\contentsline {subsubsection}{\numberline {2.2.10}Chill (04/19/2024)}{16}{subsubsection.2.2.10}%
+\contentsline {paragraph}{\numberline {2.2.10.1}Meeting Summary}{16}{paragraph.2.2.10.1}%
+\contentsline {paragraph}{\numberline {2.2.10.2}Meeting At-A-Glance}{16}{paragraph.2.2.10.2}%
+\providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
